@@ -1,0 +1,1 @@
+Crearemos un README para trabajar con el comando git tag, este directorio llamado Prueba3y los cambios que le hagamos serán los que nos darán paso a crear las versiones, este primer README será la versión 0.0.1
